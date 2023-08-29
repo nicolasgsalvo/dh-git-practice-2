@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-v2
+v4
 
 Yo B, modifico el b2.
-=======
-v3
->>>>>>> 1c1a11819ace3abbec62c0c1252b545fc225e154
